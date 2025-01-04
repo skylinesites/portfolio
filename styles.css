@@ -699,6 +699,9 @@ footer{
         width: 100%;
         margin-bottom: 35px;
     }
+    .projects{
+        display: block !important;
+    }
 }
 
 @media (max-width: 690px) {
@@ -716,6 +719,9 @@ footer{
     }
     .services .serv-content .card{
         width: 100%;
+    }
+    .projects{
+        display: block !important;
     }
 }
 
@@ -747,5 +753,8 @@ footer{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    .projects{
+        display: block !important;
     }
 }
